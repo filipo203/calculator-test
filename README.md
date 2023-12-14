@@ -1,3 +1,3 @@
 # Calculator App
-![Calculator – MainActivity kt  Calculator app main  14_12_2023 21_35_05](https://github.com/filipo203/calculator/assets/72606561/97817a94-4779-4fb8-b45a-051e3b158c8a)
-![Calculator – MainActivity kt  Calculator app main  14_12_2023 21_35_12](https://github.com/filipo203/calculator/assets/72606561/77b11027-2726-4863-aa49-428311f48f00)
+![Calculator – MainActivity kt  Calculator app main](https://github.com/filipo203/calculator/assets/72606561/97a37277-7ab6-46fe-ae69-43fe17cb542b)
+![Calculator – MainActivity kt  Calculator app main 2](https://github.com/filipo203/calculator/assets/72606561/8084efdc-2e60-4d87-96e5-2db9b943c796)
